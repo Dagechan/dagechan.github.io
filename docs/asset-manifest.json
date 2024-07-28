@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/personal-website/static/css/main.864376bb.css",
+    "main.js": "/personal-website/static/js/main.8978edc1.js",
+    "static/js/453.ed3810f9.chunk.js": "/personal-website/static/js/453.ed3810f9.chunk.js",
+    "static/media/snow-man.jpg": "/personal-website/static/media/snow-man.beff1ad27b7d02f8e09a.jpg",
+    "index.html": "/personal-website/index.html",
+    "main.864376bb.css.map": "/personal-website/static/css/main.864376bb.css.map",
+    "main.8978edc1.js.map": "/personal-website/static/js/main.8978edc1.js.map",
+    "453.ed3810f9.chunk.js.map": "/personal-website/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.864376bb.css",
+    "static/js/main.8978edc1.js"
+  ]
+}

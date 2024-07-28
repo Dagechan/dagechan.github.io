@@ -1,0 +1,103 @@
+.sns {
+    margin: 30px auto;
+    width: 80%;
+}
+
+.sns h2 {
+    margin-bottom: 10px;
+}
+
+.sns ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+}
+
+.sns li {
+    margin: 0 10px;
+}
+
+.sns a {
+    color: #0077B5;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+
+.footer-container {
+    text-align: center;
+    margin: 20px;
+}
+
+.footer-container p {
+    font-size: 16px;
+}
+
+.header-container {
+    text-align: center;
+}
+
+.round-image {
+    border-radius: 50%;
+    width: 500px;
+}
+
+
+.App {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+.wrapper{
+    min-height: 20vh; /* フッターまでの余白の高さ */
+    padding-bottom: 10px;
+    box-sizing: border-box;
+}
+
+footer {
+    background-color: #eee;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+.custom-nav {
+    margin-left: auto; 
+}
+
+@keyframes fadeIn {
+    to {
+        opacity: 1;
+    }
+}
+
+.animate {
+    font-family: 'Arial', sans-serif;
+    animation: slideIn 1s forwards;
+}
+
+@keyframes slideIn {
+    from {
+        transform: translateY(-20px);
+        opacity: 0;
+    }
+    to {
+        transform: translateY(0);
+        opacity: 1;
+    }
+}
+
+.blog1 {
+    display: flex;
+    justify-content: center;
+}
+
+.main {
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+}
