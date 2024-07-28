@@ -8,7 +8,7 @@ import Header from './Header';
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import Blog from './Blog';
 import Home from './Home';
-import Products from './Products';
+import Note from './Note';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faGithubSquare, faTwitterSquare } from '@fortawesome/free-brands-svg-icons'
 import { faSearch } from '@fortawesome/free-solid-svg-icons';
@@ -27,7 +27,7 @@ function App() {
             <Route path="/" element={<Home />} />
             <Route path="/Dagechan/homePage" element={<Home />} />
             <Route path="/blog" element={<Blog />} />
-            <Route path="/products" element={<Products />} />
+            <Route path="/note" element={<Note />} />
           </Routes>
         </div>
         

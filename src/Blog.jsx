@@ -10,8 +10,8 @@ import Col from 'react-bootstrap/Col';
 function Blog() {
 
   return (
-    <Container className='blog mt-5'>
-      <h3 className='animate text-center mb-4'>Blog</h3>
+    <Container className='blog mt-5 animate'>
+      <h3 className='text-center mb-4'>Blog</h3>
       <Row>
         <Col md={6} className='mb-4'>
           <Card>
