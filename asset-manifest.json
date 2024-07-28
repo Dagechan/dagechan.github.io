@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Dagechan/homePage/static/css/main.864376bb.css",
+    "main.js": "/Dagechan/homePage/static/js/main.7b6ec9be.js",
+    "static/js/453.ed3810f9.chunk.js": "/Dagechan/homePage/static/js/453.ed3810f9.chunk.js",
+    "static/media/snow-man.jpg": "/Dagechan/homePage/static/media/snow-man.beff1ad27b7d02f8e09a.jpg",
+    "index.html": "/Dagechan/homePage/index.html",
+    "main.864376bb.css.map": "/Dagechan/homePage/static/css/main.864376bb.css.map",
+    "main.7b6ec9be.js.map": "/Dagechan/homePage/static/js/main.7b6ec9be.js.map",
+    "453.ed3810f9.chunk.js.map": "/Dagechan/homePage/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.864376bb.css",
+    "static/js/main.7b6ec9be.js"
+  ]
+}
