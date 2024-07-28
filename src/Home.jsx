@@ -7,7 +7,7 @@ function Home() {
     <div className="header-container">
       <h4 className='animate'>Welcome to Dagechan's room!</h4>
       <div>
-        <img src={Icon} alt="Round Icon" className="round-image" />
+        <img src={Icon} alt="Round Icon" className="img-fluid rounded-circle" />
       </div>
       <p>Dagechan</p>
     </div>
