@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/static/css/main.c3b3bf8f.css",
-    "main.js": "/static/js/main.e81c44ee.js",
+    "main.js": "/static/js/main.ccbd0dd3.js",
     "static/js/453.ed3810f9.chunk.js": "/static/js/453.ed3810f9.chunk.js",
     "static/media/snow-man.jpg": "/static/media/snow-man.beff1ad27b7d02f8e09a.jpg",
     "index.html": "/index.html",
     "main.c3b3bf8f.css.map": "/static/css/main.c3b3bf8f.css.map",
-    "main.e81c44ee.js.map": "/static/js/main.e81c44ee.js.map",
+    "main.ccbd0dd3.js.map": "/static/js/main.ccbd0dd3.js.map",
     "453.ed3810f9.chunk.js.map": "/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c3b3bf8f.css",
-    "static/js/main.e81c44ee.js"
+    "static/js/main.ccbd0dd3.js"
   ]
 }
