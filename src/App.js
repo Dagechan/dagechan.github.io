@@ -43,7 +43,7 @@ function App() {
               </a>
             </div>
             <div className="footer-container">
-              <p>© 2024 Dagechan's room.</p>
+              <p>© 2025 Dagechan's room.</p>
             </div>
         </footer>
         </div>
