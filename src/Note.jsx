@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 
 function Note() {
   const notes = [
-    { id: "note1", title: "My First Note" },
+    { id: "note1", title: "Make Your Zsh Prompt Look Cool" },
     { id: "note2", title: "My Second Note" },
   ];
 

@@ -7,7 +7,7 @@ function NoteViewer() {
   const [content, setContent] = useState("");
 
   useEffect(() => {
-    fetch(`/${noteId}.md`) // Load the Markdown file dynamically
+    fetch(`/notes/${noteId}.md`) // Load the Markdown file dynamically
       .then((res) => res.text())
       .then((text) => setContent(text))
       .catch(() => setContent("# Not Found\nThis note does not exist."));
