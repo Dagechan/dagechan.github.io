@@ -1,11 +1,23 @@
-import React from 'react';
+import React from "react";
+import { Link } from "react-router-dom";
 
 function Note() {
+  const notes = [
+    { id: "note1", title: "My First Note" },
+    { id: "note2", title: "My Second Note" },
+  ];
+
   return (
-    <div className='note animate' style={{}}>
+    <div className="note animate" style={{ padding: "20px", maxWidth: "800px", margin: "auto" }}>
       <h1>Note</h1>
-      <p>This is the Note page.</p>
-      <p>Coming soon...</p>
+      <p>Select a note to view:</p>
+      <ul>
+        {notes.map((note) => (
+          <li key={note.id}>
+            <Link to={`/note/${note.id}`}>{note.title}</Link>
+          </li>
+        ))}
+      </ul>
     </div>
   );
 }
