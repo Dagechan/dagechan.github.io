@@ -14,7 +14,7 @@ function NoteViewer() {
   }, [noteId]);
 
   return (
-    <div style={{ padding: "20px", maxWidth: "800px", margin: "auto" }}>
+    <div className="animate" style={{ padding: "20px", maxWidth: "800px", margin: "auto" }}>
       <ReactMarkdown>{content}</ReactMarkdown>
     </div>
   );
