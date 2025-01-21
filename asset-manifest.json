@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/dagechan.github.io/static/css/main.dfb674df.css",
-    "main.js": "/dagechan.github.io/static/js/main.38ea95ab.js",
-    "static/js/453.ed3810f9.chunk.js": "/dagechan.github.io/static/js/453.ed3810f9.chunk.js",
-    "static/media/snow-man.jpg": "/dagechan.github.io/static/media/snow-man.beff1ad27b7d02f8e09a.jpg",
-    "index.html": "/dagechan.github.io/index.html",
-    "main.dfb674df.css.map": "/dagechan.github.io/static/css/main.dfb674df.css.map",
-    "main.38ea95ab.js.map": "/dagechan.github.io/static/js/main.38ea95ab.js.map",
-    "453.ed3810f9.chunk.js.map": "/dagechan.github.io/static/js/453.ed3810f9.chunk.js.map"
+    "main.css": "/static/css/main.dfb674df.css",
+    "main.js": "/static/js/main.6aee841c.js",
+    "static/js/453.ed3810f9.chunk.js": "/static/js/453.ed3810f9.chunk.js",
+    "static/media/snow-man.jpg": "/static/media/snow-man.beff1ad27b7d02f8e09a.jpg",
+    "index.html": "/index.html",
+    "main.dfb674df.css.map": "/static/css/main.dfb674df.css.map",
+    "main.6aee841c.js.map": "/static/js/main.6aee841c.js.map",
+    "453.ed3810f9.chunk.js.map": "/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.dfb674df.css",
-    "static/js/main.38ea95ab.js"
+    "static/js/main.6aee841c.js"
   ]
 }
