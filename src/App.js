@@ -19,14 +19,14 @@ import MediaQuery from 'react-responsive';
 
 function App() {
   return (
-    <Router>
+    <Router basename="/dagechan.github.io">
       <div className="App">
         <Header />
       
         <div className='main'>
           <Routes>
             <Route path="/" element={<Home />} />
-            <Route path="/Dagechan/homePage" element={<Home />} />
+            {/* <Route path="/Dagechan/homePage" element={<Home />} /> */}
             <Route path="/blog" element={<Blog />} />
             <Route path="/note" element={<Note />} />
             <Route path="/note/:noteId" element={<NoteViewer />} />
