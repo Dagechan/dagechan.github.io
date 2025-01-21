@@ -7,7 +7,7 @@ function Header() {
     <header>
       <Navbar bg="info" variant="dark" expand="lg">
         <Container>
-          <Navbar.Brand href="/dagechan.github.io">Dagechan's room</Navbar.Brand>
+          <Navbar.Brand href="/">Dagechan's room</Navbar.Brand>
           <Navbar.Toggle aria-controls="basic-navbar-nav" />
           <Navbar.Collapse id="basic-navbar-nav">
             <Nav className="ms-auto custom-nav">
