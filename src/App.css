@@ -104,6 +104,19 @@ footer {
     }
 }
 
+pre {
+    background-color: #edf5c9; 
+    padding: 10px;
+    border-radius: 5px;
+    overflow-x: auto;
+}
+  
+/* code {
+    color: #d8dee9; 
+    font-family: 'Fira Code', monospace; 
+} */
+  
+
 .blog1 {
     display: flex;
     justify-content: center;
