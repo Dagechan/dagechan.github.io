@@ -23,7 +23,7 @@ function Home() {
           </li>
           <li>
             <h5 className="pre-title">Interests</h5>
-            <p>Recently, I have been enjoying talking to foreigners to improve my English skills. I also like creating cool desktop environments on Unix-based operating systems.</p>
+            <p>Recently, I've been enjoying chatting with foreigners as a hobby. I also like creating cool desktop environments on Unix-based operating systems.</p>
           </li>
           <li>
             {/* <h5 className="pre-title">Contact</h5>
